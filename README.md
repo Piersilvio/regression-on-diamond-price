@@ -1,7 +1,4 @@
-# regression-on-diamond-price
-
-# Overview
-
+# regression on diamondn rice
 In the notebook you will perform a complete pipeline of machine learning - regression task. First, you will:
 - split the data into training, validation, and test;
 - standardize the data.
